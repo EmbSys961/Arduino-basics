@@ -1,3 +1,5 @@
+
+//Blinking Led Red/Yellow/Green dly=100ms
 #include <Arduino.h>
 // Defining Connections in Code
 const byte ledred=4; // Red LED connected to digital pin 4  
